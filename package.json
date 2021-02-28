@@ -1,0 +1,15 @@
+{
+  "name": "boneshatter",
+  "version": "1.0.0",
+  "description": "calculator of boneshatter helm profitability for wow, automating a manual calculation I tend to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Santorelli @gavaar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.2.2"
+  }
+}
