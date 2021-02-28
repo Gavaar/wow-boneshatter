@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "run": "tsc && cd dist && node index.js && cd .."
+    "run": "tsc && node dist/index.js"
   },
   "author": "Francisco Santorelli @gavaar",
   "license": "ISC",
